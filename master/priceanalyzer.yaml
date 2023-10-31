@@ -1,4 +1,4 @@
-lueprint:
+blueprint:
   name: PriceAnalyzer - Control Climate
   description: >-
     Based on (https://github.com/erlendsellie/priceanalyzer)
